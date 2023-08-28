@@ -26,7 +26,3 @@ Você está convidado a contribuir para o desenvolvimento contínuo do UploadChu
 
 ## Licença
 Este projeto está licenciado sob a MIT License. Sinta-se à vontade para utilizar e modificar o código conforme necessário.
-
-![MicrosoftTeams-image (1)](https://github.com/Lelou123/UploadChunks/assets/55301440/6696b404-bb71-49ed-885b-35870739179c)
-
-
